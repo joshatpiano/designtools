@@ -1,0 +1,11 @@
+{
+  "name": "Media Performance / Leaderboard",
+  "id": "1233190343009756877",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ]
+}
